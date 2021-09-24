@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aryan-ki-codepanti
 - 👀 I’m interested in Web Development and programming
 - 🌱 I’m currently learning full stack web Dev
-- 💞️ I’m looking to collaborate on front end web development and Python GUIs or databases
+- 💞️ I’m looking to collaborate on full stack development and Python GUIs or databases
 - 📫 How to reach me ...
  
  Email: codewitharyan2002@gmail.com
