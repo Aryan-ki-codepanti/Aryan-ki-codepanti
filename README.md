@@ -5,7 +5,6 @@
 - 📫 How to reach me ...
  
  Email: codewitharyan2002@gmail.com
- Instagram : https://www.instagram.com/codingtiger1000101/
 
 <!---
 Aryan-ki-codepanti/Aryan-ki-codepanti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
