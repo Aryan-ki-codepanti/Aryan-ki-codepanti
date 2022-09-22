@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on full stack development and Python GUIs or databases or other code bases
 - 📫 How to reach me ...
  
- Email: codewitharyan2002@gmail.com
+ Email: aryan.21514@sscbs.du.ac.in
  Connect me on LinkedIn: https://www.linkedin.com/in/aryan-sethi-54785a1a9/
 
 <!---
